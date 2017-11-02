@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab 2.1 Loan</string>
+    <string name="vehicle_price">Vehicle price</string>
+    <string name="downpayment">Downpayment</string>
+    <string name="interest_rate">Interest rate (%)</string>
+    <string name="repayment_month">Repayment (month)</string>
+    <string name="monthly_payment">Monthly payment</string>
+    <string name="salary">Salary</string>
+    <string name="status">Status</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="close">Close</string>
+</resources>
